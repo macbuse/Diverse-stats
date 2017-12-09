@@ -6,6 +6,7 @@ any kind of stats stuff that isn't NLP related
 
 ## Birth and death dates of US singers
 
+[jupyter notebook](https://github.com/macbuse/Diverse-stats/blob/master/singers_bio_data.ipynb)
 
 It's a standard of statistics that athlete's birthdays aren't uniformly distributed over a year.
 
