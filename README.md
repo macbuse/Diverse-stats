@@ -8,6 +8,9 @@ any kind of stats stuff that isn't NLP related
 
 [jupyter notebook](https://github.com/macbuse/Diverse-stats/blob/master/singers_bio_data.ipynb)
 
+[data as csv](https://github.com/macbuse/Diverse-stats/blob/master/singesr.csv)
+
+
 It's a standard of statistics that athlete's birthdays aren't uniformly distributed over a year.
 
 #### What about singers?
